@@ -1,0 +1,30 @@
+ 
+.loginclass
+{
+text-indent:10px;
+height:40px;
+width:250px;
+font-size:100%;
+font-family:verdana;
+border: 1px solid  #357EC7;
+border-radius: 5px ;
+box-shadow:inset 1px 1px 4px rgba(0,0,0,0.6),inset 1px -1px 4px rgba(0,0,0,0.6);
+}
+
+#divlogin
+{
+background-color:#357EC7;
+width:300px;
+margin:auto;
+padding: 35px;
+border:0px solid #357EC7;
+border-radius:2px;
+box-shadow:inset 0 10px 9px rgba(255,255,255,0.3),inset 0 -10px 9px rgba(0,0,0,0.6),9px 9px 9px rgba(0,0,0,0.6);
+background-image: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,0.7));
+}
+.checkclass
+{
+border: 1px solid  #357EC7;
+border-radius: 5px ;
+
+}

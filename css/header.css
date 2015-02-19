@@ -1,0 +1,25 @@
+#divheader
+{
+background:#357EC7;
+width:100%;
+padding: 10px;
+min-width:1024px;
+min-height:100px;
+height:100%;
+position:fixed;
+z-index:1000;
+top:0;left:0;right:0;
+background-image: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.7));
+}
+.logout
+{
+width:80px;
+height:50px;
+float:right;
+margin-right:5%;
+background-color:orange;border:0px inset #357EC7;
+border-radius:4px;
+color:white;
+background-image: linear-gradient(rgba(0,0,0,.1), rgba(0,0,0,0.2));
+}
+
